@@ -1,38 +1,27 @@
-# Hi, I'm Gauri Vaidya
+# Hi, I'm Gauri
 
-I develop AI methods for complex, real-world problems, with a focus on reducing computational cost while improving reliability, transparency and responsible use.
+I'm a Senior Postdoctoral Researcher with the National Kidney Disease Surveillance System (NKDSS) at the University of Limerick, Ireland. I use data analytics and machine learning to understand the burden of chronic kidney disease in Ireland, collaborating with domain experts, researchers and industry partners.
 
-I am currently a **Postdoctoral Researcher with the National Kidney Disease Surveillance System (NKDSS) at the University of Limerick, Ireland**, where my research focuses on chronic kidney disease, real-world health data, and the development of linked national data infrastructure.
+My PhD in Artificial Intelligence (University of Limerick, 2021–2025) was on efficient hyperparameter optimisation: finding good settings for machine and deep learning models while using fewer computational resources.
 
-My PhD in Artificial Intelligence focused on **computationally efficient hyperparameter optimisation**, where I developed approaches for reducing the resources required to train and optimise machine learning models. My broader work has explored responsible AI, explainability, knowledge representation, secure data sharing and cryptography, with applications across healthcare and other real-world domains.
+**What I work on**
 
-## Selected Publications
+- Optimisation and machine learning, including grammatical evolution for hyperparameter optimisation
+- Large-scale health data analytics
+- Blockchain and knowledge graphs for sharing health data
+- Large language models and agentic AI
+- Responsible, explainable AI for healthcare
 
-- **PurGE: Towards Responsible Artificial Intelligence through Sustainable Hyperparameter Optimization**  
-  *ICAART, 2025*
+**Some repositories**
 
-- **Grammatical Evolution-Driven Algorithm for Efficient and Automatic Hyperparameter Optimisation of Neural Networks**  
-  *Algorithms, 2023*
+- [PURGE](https://github.com/gauriivaidya/PURGE): PurGE, two-stage hyperparameter optimisation with grammatical evolution and search-space pruning (ICAART 2025)
+- [GE-HPO](https://github.com/Gauri-PhD-Work/GE-HPO) and [HyperEstimator](https://github.com/Gauri-PhD-Work/HyperEstimator): earlier work from my PhD
+- [SHIELD_Do_It_The_Safe_Way](https://github.com/gauriivaidya/SHIELD_Do_It_The_Safe_Way): hands-on demo from my PyCon Ireland 2022 talk
 
-- **HyperEstimator: Evolving Computationally Efficient CNN Models with Grammatical Evolution**  
-  *ICSBT, 2022*
+I'm always happy to hear about collaborations.
 
-- **Design of a Cryptographically Secure Pseudo Random Number Generator with Grammatical Evolution**  
-  *Scientific Reports, 2022*
-
-- **Convergence of Blockchain, Autonomous Agents, and Knowledge Graph to Share Electronic Health Records**  
-  *Frontiers in Blockchain, 2021*
-
-[**Full publication list on Google Scholar →**](https://scholar.google.com/citations?user=HIo03L4AAAAJ&hl=en)
-
-## Teaching & Supervision
-
-I teach postgraduate modules at the **University of Limerick** and supervise undergraduate and master's research projects in machine learning and applied AI.
-
-My teaching spans AI in healthcare, research methods, machine learning, and the design and evaluation of AI-based solutions.
-
-## Connect
-
-I am interested in research collaborations and interdisciplinary projects involving **AI, machine learning and their application to challenging real-world problems**.
-
-[**Google Scholar**](https://scholar.google.com/citations?user=HIo03L4AAAAJ&hl=en) · [**LinkedIn**](https://linkedin.com/in/gauriivaidya) · [**GitHub**](https://github.com/gauriivaidya) · [**Email**](mailto:gaurivaidya.work@gmail.com)
+Website: https://gauriivaidya.github.io/
+Google Scholar: https://scholar.google.com/citations?user=HIo03L4AAAAJ
+ORCID: https://orcid.org/0000-0002-9699-522X
+LinkedIn: https://www.linkedin.com/in/gauriivaidya/
+Get in touch: https://gauriivaidya.github.io/contact/
