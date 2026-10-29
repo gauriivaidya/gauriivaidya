@@ -6,11 +6,12 @@ My PhD in Artificial Intelligence (University of Limerick, 2021–2025) was on e
 
 **What I work on**
 
-- Optimisation and machine learning, including grammatical evolution for hyperparameter optimisation
+- Machine learning and AI for chronic kidney disease and health systems
 - Large-scale health data analytics
-- Blockchain and knowledge graphs for sharing health data
-- Large language models and agentic AI
 - Responsible, explainable AI for healthcare
+- Large language models and agentic AI
+- Optimisation and machine learning
+- Blockchain and knowledge graphs for sharing health data
 
 **Some repositories**
 
